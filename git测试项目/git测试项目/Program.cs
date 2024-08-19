@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            Console.WriteLine("program.cs添加了输出语句");
         }
         public int Sum(int a,int b)
         {
